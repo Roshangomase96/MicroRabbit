@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iwfezFOrKkLqy/3Lp1/AxLjJz0POYPapLF9g2iQVffLwqKzu49qsGryFaRVYy5OkI0gsMT/Cnxlh4C6Fahc3kA==",
+  "success": true,
+  "projectFilePath": "D:\\MicroRabbit\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UjjwalMeshram\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

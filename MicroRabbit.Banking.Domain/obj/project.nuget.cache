@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMu159I7Lnlft8IERVOhQlaYSl4J7rQnk1RANWohrME+ePGfmAWAvvrSaNkqQ/f6y5+L/2c2zF1jbFkxM1UV7g==",
+  "success": true,
+  "projectFilePath": "D:\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UjjwalMeshram\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

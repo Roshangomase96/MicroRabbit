@@ -1,0 +1,12 @@
+F:\MicroRabbit\MicroRabbit.Banking.Domain\bin\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.deps.json
+F:\MicroRabbit\MicroRabbit.Banking.Domain\bin\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+F:\MicroRabbit\MicroRabbit.Banking.Domain\bin\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+F:\MicroRabbit\MicroRabbit.Banking.Domain\bin\Release\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+F:\MicroRabbit\MicroRabbit.Banking.Domain\bin\Release\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+F:\MicroRabbit\MicroRabbit.Banking.Domain\obj\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
+F:\MicroRabbit\MicroRabbit.Banking.Domain\obj\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+F:\MicroRabbit\MicroRabbit.Banking.Domain\obj\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+F:\MicroRabbit\MicroRabbit.Banking.Domain\obj\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+F:\MicroRabbit\MicroRabbit.Banking.Domain\obj\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CopyComplete
+F:\MicroRabbit\MicroRabbit.Banking.Domain\obj\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+F:\MicroRabbit\MicroRabbit.Banking.Domain\obj\Release\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
